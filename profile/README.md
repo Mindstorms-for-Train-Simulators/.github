@@ -4,7 +4,8 @@ Mindstorms for Train Simulators is a system of devices that utilzies Lego Mindst
 
 ## Get Involved 🌈
 
-Lego Mindstorms was discontinued in 2022, meaning that, although there are still a lot of systems still running, this system will need to be ported to newer Spike PRIME kits, if anyone is interested in joining. There is also a possibility of using Raspberry Pi HATS that utilizes the newer LPF2 ports, doing away with the technic hubs alltogether. 
+Lego Mindstorms was discontinued in 2022, meaning that, although there are still a lot of systems still running, this system can be ported to newer Spike PRIME kits, if anyone is interested in joining.  
+There is also a possibility of using Raspberry Pi HATS that utilizes the newer LPF2 ports, doing away with the technic hubs alltogether.  
 Unfortunately, I do not have the money or interest in buying the Spike PRIME kit myself.
 
 

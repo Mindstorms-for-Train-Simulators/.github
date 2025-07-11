@@ -28,15 +28,17 @@ This project requires:
 
 ### Notes about the Raspberry Pi 🥧:
 
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## To Do: 🗺️
+### Train Cabs 🚆
+- [x] Train Sim Classic S7+1 Stock
+- [ ] Train Sim World 5 1972 Stock
+- [ ] Train Sim World 5 ALP-46
+### Development 🛠️
+- [x] Main Menu
+- [x] Calibration Program
+- [x] Button Keymapping
+- [x] Lever Mapping
+- [ ] EV3 - Raspberry Pi Bridge
+- [ ] Raspberry Pi HiD
+- [ ] Raspberry Pi - Computer (TSC/TSW) Bridge
+- [ ] Integration of HiD into Computer with [joystick](https://forums.dovetailgames.com/threads/ts-classic-raildriver-and-joystick-interface.72488/) [interfaces](https://forums.dovetailgames.com/threads/ts-world-raildriver-and-joystick-interface.61440/)

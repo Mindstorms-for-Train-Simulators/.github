@@ -29,16 +29,4 @@ This project requires:
 ### Notes about the Raspberry Pi 🥧:
 
 ## To Do: 🗺️
-### Train Cabs 🚆
-- [x] Train Sim Classic S7+1 Stock
-- [ ] Train Sim World 5 1972 Stock
-- [ ] Train Sim World 5 ALP-46
-### Development 🛠️
-- [x] Main Menu
-- [x] Calibration Program
-- [x] Button Keymapping
-- [x] Lever Mapping
-- [ ] EV3 - Raspberry Pi Bridge
-- [ ] Raspberry Pi HiD
-- [ ] Raspberry Pi - Computer (TSC/TSW) Bridge
-- [ ] Integration of HiD into Computer with [joystick](https://forums.dovetailgames.com/threads/ts-classic-raildriver-and-joystick-interface.72488/) [interfaces](https://forums.dovetailgames.com/threads/ts-world-raildriver-and-joystick-interface.61440/)
+Check out the projects located [here](https://github.com/orgs/Mindstorms-for-Train-Simulators/projects) for upcoming features and rolling stock support

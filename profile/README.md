@@ -37,7 +37,7 @@ This project requires:
 
 ### Setting up the Computer - CobraOne Driver ♥️:
 * CobraOne released two programs for [Train Simulator Classic](https://forums.dovetailgames.com/threads/ts-classic-raildriver-and-joystick-interface.72488/) and [Train Simulator World](https://forums.dovetailgames.com/threads/ts-world-raildriver-and-joystick-interface.61440/). Install the one(s) that you need. The setup procedure will be the same for both versions.
-* Open up the ``configs`` folder and the executable for the programs you just downloaded (you can go split-screen). At the top of the program, go to ``Settings`` and then ``Assign Levers``. Work your way down from ``Reverser`` down to ``LocoBrake``. For each one, right click and press ``Assign Controller Axis``. Immediately press the appropiate ``.py`` file from the config. Press ``OK`` and save when you are finished.
+* Open up the ``configs`` folder and the executable for the programs you just downloaded (you can go split-screen). At the top of the program, go to ``Settings`` and then ``Assign Levers``. Work your way down from ``Reverser`` down to ``LocoBrake``. For each one, right click and press ``Assign Controller Axis``. Immediately press the appropiate ``.py`` file from the ``configs`` folder. Press ``OK`` and save when you are finished.
   
 ## To Do: 🗺️
 Check out the projects located [here](https://github.com/orgs/Mindstorms-for-Train-Simulators/projects) for upcoming features and rolling stock support

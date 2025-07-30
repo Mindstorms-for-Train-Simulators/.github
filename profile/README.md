@@ -23,7 +23,7 @@ This project requires:
  * It is not neccessary to have VSCode to run the software, only to install and update! When not updating or installing, navigate to ``main.py`` and run the script.
 * The system requires a plethora of motors and sensors. Three motors should be connected to port A, B, and C. Motor A will be the throttle, or throttle/brake. Motor B will be Automatic Brake. Motor C will be Independent Brake. However, the roles of these motors will shift depending on the type of train running, especially in trains that do not have such a braking system. The color sensor will need to be connected to port 2, touch sensor to port 3, and infared sensor to port 4.
   * The color sensor will need to read three colors (black, yellow, and white) and in that order. Feel free to implement this as a sliding lever.
-* This is modular, and new train configurations can be added within the programs folder.
+* This is modular, and new train configurations can be added within the programs folder, allowing you to customize which locomotives to save.
 * If the motors does not match the values in the simulator, run "Callibration". It should be saved for future runs.
 * **Connect to Computer:** Use the USB connecting cable to connect the EV3 brick to your computer. Ensure that your EV3 brick is in tethering mode by going to ``Wireless and Networks > Tethering`` and checking the ``Gadget`` option.
 

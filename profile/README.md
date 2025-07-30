@@ -10,6 +10,8 @@ Unfortunately, I do not have the money or interest in buying the Spike PRIME kit
 
 ## How to Use 💻
 
+> :warning: **A DISCLAIMER**: Unfortunately, the connection between the EV3 brick and the computer results in the loss of WiFi. There's not much I can do here. Luckily, you are driving a train that doesn't need WiFi. But this means that you can't play the game while watching a Youtube video. Not like you should do that anyways.  
+
 This project requires:
 * Lego Mindstorms EV3 Brick, with three motors, a color sensor, a touch sensor, an infared sensor, and a infared beacon.
 * Raspberry Pi
@@ -23,7 +25,7 @@ This project requires:
   * The color sensor will need to read three colors (black, yellow, and white) and in that order. Feel free to implement this as a sliding lever.
 * This is modular, and new train configurations can be added within the programs folder.
 * If the motors does not match the values in the simulator, run "Callibration". It should be saved for future runs.
-* **Connect to Raspberry Pi:** Use the USB connecting cable to connect the EV3 brick to the Raspberry Pi, the next step of the process. Connect the the EV3 to the Raspberry Pi with a USB cable.
-
+* **Connect to Computer:** Use the USB connecting cable to connect the EV3 brick to your computer. Ensure that your EV3 brick is in tethering mode by going to ``Wireless and Networks > Tethering`` and checking the ``Gadget`` option.
+  
 ## To Do: 🗺️
 Check out the projects located [here](https://github.com/orgs/Mindstorms-for-Train-Simulators/projects) for upcoming features and rolling stock support

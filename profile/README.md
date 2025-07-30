@@ -30,9 +30,7 @@ This project requires:
 ### Setting up the Computer - Bridge 💻:
 * Download ``main.py`` from the [VirtualHID](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID) repository.
 * Install the latest Python program from the Microsoft Store. As of time of writing, it is [v3.13](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=US&ocid=pdpshare).
-* Open up Windows Command Prompt
-   * Install the [keyboard module](https://pypi.org/project/keyboard/) with ``pip install keyboard``
-   * Install the [pyvjoy module](https://pypi.org/project/pyvjoy/) with ``pip install pyvjoy``
+* Open up Windows Command Prompt. Install the [keyboard](https://pypi.org/project/keyboard/) and [pyvjoy modules](https://pypi.org/project/pyvjoy/) with ``pip install keyboard pyvjoy``. If this doesn't work, try running Windows Command Prompt as an administrator.
 
 ### Setting up the Computer - CobraOne Driver ♥️:
 * 

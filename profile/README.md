@@ -17,7 +17,7 @@ This project requires:
 * Raspberry Pi
 * Computer running the Train Simulator
 
-### Notes about the EV3 Brick 🧱:
+### Setting up the EV3 Brick 🧱:
 * Although the EV3 brick doesn't take much processing power, it is power hungry. It is recommended that you use the EV3 brick with a Battery Pack, rechargable AA batteries, or [Battery Eliminator Kit](https://www.batteryeliminatorkits.com/product-p/6aa-eliminator-kit.htm) rated for 6 AA batteries with no more than 9 volts and 2 amps, but no less than 7 volts, rated for inside use only. You might burn through a significant number of traditional AA batteries otherwise.
 * The EV3 brick utilizes Micropython. Please follow installation instructions [here](https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3/) needed to install the operating system, as well as installing VSCode and the neccessary [Micropython extension](https://marketplace.visualstudio.com/items?itemName=lego-education.ev3-micropython) to connect to the EV3 brick. Transfer the files from the [EV3CabControl Repository](https://github.com/Mindstorms-for-Train-Simulators/EV3CabControl) into the EV3 Brick.
  * It is not neccessary to have VSCode to run the software, only to install and update! When not updating or installing, navigate to ``main.py`` and run the script.
@@ -26,6 +26,16 @@ This project requires:
 * This is modular, and new train configurations can be added within the programs folder.
 * If the motors does not match the values in the simulator, run "Callibration". It should be saved for future runs.
 * **Connect to Computer:** Use the USB connecting cable to connect the EV3 brick to your computer. Ensure that your EV3 brick is in tethering mode by going to ``Wireless and Networks > Tethering`` and checking the ``Gadget`` option.
+
+### Setting up the Computer - Bridge 💻:
+* Download ``main.py`` from the [VirtualHID](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID) repository.
+* Install the latest Python program from the Microsoft Store. As of time of writing, it is [v3.13](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=US&ocid=pdpshare).
+* Open up Windows Command Prompt
+   * Install the [keyboard module](https://pypi.org/project/keyboard/) with ``pip install keyboard``
+   * Install the [pyvjoy module](https://pypi.org/project/pyvjoy/) with ``pip install pyvjoy``
+
+### Setting up the Computer - CobraOne Driver ♥️:
+* 
   
 ## To Do: 🗺️
 Check out the projects located [here](https://github.com/orgs/Mindstorms-for-Train-Simulators/projects) for upcoming features and rolling stock support

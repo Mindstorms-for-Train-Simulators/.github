@@ -32,8 +32,7 @@ This project requires:
 * Install the latest Python program from the Microsoft Store. As of time of writing, it is [v3.13](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=US&ocid=pdpshare).
 * Open up Windows Command Prompt. Install the [keyboard](https://pypi.org/project/keyboard/) and [pyvjoy modules](https://pypi.org/project/pyvjoy/) with ``pip install keyboard pyvjoy``. If this doesn't work, try running Windows Command Prompt as an administrator.
 * Install [vJoystick](https://sourceforge.net/projects/vjoystick/).
-  * Open up the Configure vJoy application in the computer's search bar and add devices 2-6. Restart your computer when prompted.
-  * Open up the Configure vJoy application again. Go through all six devices, unchecking everything except for slider. Set the amount of buttons to 0. 
+  * Open up the Configure vJoy application in the computer's search bar and untick ``Slider`` and ``Dial/Slider2`` axis, as well as unticking ``Enable Effects`` in the Force Feedback category. Set the number of buttons to ``0``.
 
 ### Setting up the Computer - CobraOne Driver ♥️:
 * 

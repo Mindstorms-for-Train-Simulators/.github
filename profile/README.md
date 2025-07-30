@@ -26,7 +26,12 @@ This project requires:
 * **Connect to Raspberry Pi:** Use the USB connecting cable to connect the EV3 brick to the Raspberry Pi, the next step of the process. Connect the the EV3 to the Raspberry Pi with a USB cable.
 
 ### Notes about the Raspberry Pi 🥧:
-* You will need a Raspberry Pi 4 or above. Download the [Raspberry Pi Imager](https://www.raspberrypi.com/software/), and select the appropiate model. For the OS, select Raspberry Pi OS (other) and choose ``Raspberry Pi OS Lite (32-bit)``. The 64-bit operating system will not work for this setup procedure, but the 32-bit can run on 8GB systems without negatively impacting performance.
+* Devices that should work are, in which checked devices are confirmed to work:
+  - [ ] Raspberry Pi Zero
+  - [ ] Raspberry Pi Zero 2W
+  - [x] Raspberry Pi 4
+  - [ ] Raspberry Pi 5
+* Download the [Raspberry Pi Imager](https://www.raspberrypi.com/software/), and select the appropiate model. For the OS, select Raspberry Pi OS (other) and choose ``Raspberry Pi OS Lite (32-bit)``. The 64-bit operating system will not work for this setup procedure, but the 32-bit can run on 8GB systems without negatively impacting performance.
 * Setup the Raspberry Pi appropiately, if not already.
 * For setup purposes only, the Raspberry Pi will need to be connected to Wi-Fi.
   * It is likely that the Raspberry Pi will block by rf-kill. Type ``sudo raspi-config`` and select ``5 - Localization Options`` using your arrow keys. Select ``L4 WLAN Country`` and choose the country from which your Raspberry Pi is being used. Please restart the Raspberry pi with ``sudo reboot``.

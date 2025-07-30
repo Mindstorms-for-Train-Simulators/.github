@@ -26,6 +26,7 @@ This project requires:
 * This is modular, and new train configurations can be added within the programs folder, allowing you to customize which locomotives to save.
 * If the motors does not match the values in the simulator, run "Callibration". It should be saved for future runs.
 * **Connect to Computer:** Use the USB connecting cable to connect the EV3 brick to your computer. Ensure that your EV3 brick is in tethering mode by going to ``Wireless and Networks > Tethering`` and checking the ``Gadget`` option.
+   * This is successful once an IP address is displayed on the top left of your EV3 brick.
 
 ### Setting up the Computer - Bridge 💻:
 * Download ``main.py`` from the [VirtualHID](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID) repository.

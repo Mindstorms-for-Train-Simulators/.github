@@ -33,9 +33,11 @@ This project requires:
 * Open up Windows Command Prompt. Install the [keyboard](https://pypi.org/project/keyboard/) and [pyvjoy modules](https://pypi.org/project/pyvjoy/) with ``pip install keyboard pyvjoy``. If this doesn't work, try running Windows Command Prompt as an administrator.
 * Install [vJoystick](https://sourceforge.net/projects/vjoystick/).
   * Open up the Configure vJoy application in the computer's search bar and untick ``Slider`` and ``Dial/Slider2`` axis, as well as unticking ``Enable Effects`` in the Force Feedback category. Set the number of buttons to ``0``.
+* Download the [VirtualHID](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID) repository.
 
 ### Setting up the Computer - CobraOne Driver ♥️:
-* 
+* CobraOne released two programs for [Train Simulator Classic](https://forums.dovetailgames.com/threads/ts-classic-raildriver-and-joystick-interface.72488/) and [Train Simulator World](https://forums.dovetailgames.com/threads/ts-world-raildriver-and-joystick-interface.61440/). Install the one(s) that you need. The setup procedure will be the same for both versions.
+* Open up the ``configs`` folder and the executable for the programs you just downloaded (you can go split-screen). At the top of the program, go to ``Settings`` and then ``Assign Levers``. Start selecting from ``Reverser`` down to ``LocoBrake``. For each one, right click and press ``Assign Controller Axis``. Immediately press the appropiate ``.py`` file from the config. Press ``OK`` and save when you are finished.
   
 ## To Do: 🗺️
 Check out the projects located [here](https://github.com/orgs/Mindstorms-for-Train-Simulators/projects) for upcoming features and rolling stock support

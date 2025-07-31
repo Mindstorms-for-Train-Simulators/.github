@@ -30,7 +30,7 @@ This project requires:
    * You will need your computer's IP address (``192.168.X.XXX``) and to replace that in the ``/assets/specs.json`` file under the ``HOST`` key. You can obtain this by going to ``Network & Internet > [Your EV3 Ethernet]`` and looking for ``IPv4 Address: 192.168.X.XXX``.
 
 ### Setting up the Computer - Bridge 💻:
-* Download ``main.py`` from the [VirtualHID](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID) repository.
+* Download all files from the [VirtualHID](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID) repository.
 * Install the latest Python program from the Microsoft Store. As of time of writing, it is [v3.13](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=US&ocid=pdpshare).
 * Open up Windows Command Prompt. Install the [keyboard](https://pypi.org/project/keyboard/) and [pyvjoy modules](https://pypi.org/project/pyvjoy/) with ``pip install keyboard pyvjoy``. If this doesn't work, try running Windows Command Prompt as an administrator.
 * Install [vJoystick](https://sourceforge.net/projects/vjoystick/).

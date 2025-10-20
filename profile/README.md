@@ -6,11 +6,11 @@ Mindstorms for Train Simulators is a system of devices that utilzies Lego Mindst
 
 Lego Mindstorms was discontinued in 2022, meaning that, although there are still a lot of systems still running, this system can be ported to newer Spike PRIME kits, if anyone is interested in joining.  
 There is also a possibility of using Raspberry Pi HATS that utilizes the newer LPF2 ports, doing away with the technic hubs.  
-Unfortunately, I do not have the money or interest in buying the Spike PRIME kit myself.
+Unfortunately, I do not have the money in buying the Spike PRIME kit.
 
 ## How to Use 💻
 
-> :warning: **WiFi Issue**: Unfortunately, the connection between the EV3 brick and the computer results in the temporary loss of WiFi. There's not much I can do here. Luckily, you are driving an offline train that doesn't need WiFi. But this means that you can't play the game while watching a Youtube video. Not like you should do that anyways.  
+> :warning: **WiFi Issue**: Unfortunately, the connection between the EV3 brick and the computer may result in the temporary loss of WiFi. There's not much I can do here. Luckily, you are driving an offline train that doesn't need WiFi. But this means that you can't play the game while watching a Youtube video. Not like you should do that anyways.  
 
 This project requires:
 * Lego Mindstorms EV3 Brick, with three motors, a color sensor, a touch sensor, an infared sensor, and a infared beacon.

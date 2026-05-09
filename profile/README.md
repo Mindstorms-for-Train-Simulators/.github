@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Mindstorms for Train Simulators is a system of devices that utilzies Lego Mindstorms EV3 bricks to control cab systems for Train Simulator Classic, Train Simulator World, and OpenBVE.
+Mindstorms for Train Simulators is a system of devices that utilzies Lego Mindstorms EV3 bricks to control cab systems for Train Simulator Classic, but I plan on implementing this for Train Simulator World! Controls are linked [here](https://docs.google.com/spreadsheets/d/1hxNL5QQfzBU_gq6_GBDmiY7Ld5c0j7snOmbEc2Otv3o/edit?gid=0#gid=0)
 
 ## Get Involved 🌈
 

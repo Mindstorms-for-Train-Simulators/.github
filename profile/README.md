@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Mindstorms for Train Simulators is a system of devices that utilzies Lego Mindstorms EV3 bricks to control cab systems for Train Simulator Classic, but I plan on implementing this for Train Simulator World! Controls are linked [here](https://docs.google.com/spreadsheets/d/1hxNL5QQfzBU_gq6_GBDmiY7Ld5c0j7snOmbEc2Otv3o/edit?gid=0#gid=0)
+Mindstorms for Train Simulators is a system of devices that utilizes Lego Mindstorms EV3 bricks to control cab systems for Train Simulator Classic and World of Subways, and I plan on implementing this for Train Simulator World!
 
 ## Get Involved 🌈
 
@@ -46,5 +46,4 @@ This project requires:
    <!--* If that doesn't work, you will have to set the levers manually with the python script. Open up the ``configs`` folder in the VirtualHID project and the executable for the programs you just downloaded (you can go split-screen). At the top of the program, go to ``Settings`` and then ``Assign Levers``. Work your way down from ``Reverser`` down to ``LocoBrake``. For each one, right click and press ``Assign Controller Axis``. Immediately press the appropiate ``.py`` file from the ``configs`` folder. Press ``OK`` and save when you are finished.-->
   
 ## To Do: 🗺️
-Check out the projects located [here](https://github.com/orgs/Mindstorms-for-Train-Simulators/projects) for upcoming features and rolling stock support.
-Rolling stock configurations can be found [here](https://docs.google.com/spreadsheets/d/1njT1M9xIIf-rvxe7dzZpzsl6AK6CzqmdIQ6U5POdvR4/edit?usp=sharing) so that you can get used to each cab.
+Rolling Stock Configurations are found [here](https://docs.google.com/spreadsheets/d/1hxNL5QQfzBU_gq6_GBDmiY7Ld5c0j7snOmbEc2Otv3o/edit?ouid=100829421079514238916&usp=sheets_home&ths=true)! Future rolling stock will also be supplied on the spreadsheet as well.

@@ -13,7 +13,7 @@ Unfortunately, I do not have the money in buying the Spike PRIME kit.
 > :warning: **WiFi Issue**: Unfortunately, the connection between the EV3 brick and the computer may result in the temporary loss of WiFi. There's not much I can do here. Luckily, you are driving an offline train that doesn't need WiFi. But this means that you can't play the game while watching a Youtube video. Not like you should do that anyways.  
 
 This project requires:
-* Lego Mindstorms EV3 Brick, with three motors, a color sensor, a touch sensor, an infared sensor, and a infared beacon.
+* Lego Mindstorms EV3 Brick, with three motors, a color sensor, a touch sensor, an infared sensor, and a infared beacon... all parts are from this [kit](https://www.lego.com/en-us/product/lego-mindstorms-ev3-31313)
 * Raspberry Pi
 * Computer running the Train Simulator
 

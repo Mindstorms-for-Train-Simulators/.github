@@ -2,7 +2,7 @@
 
 Mindstorms for Train Simulators is a system of devices that utilizes Lego Mindstorms EV3 bricks to control cab systems for Train Simulator Classic and World of Subways, and I plan on implementing this for Train Simulator World!
 
-## Get Involved 🌈
+## Get Involved 🪄
 
 Lego Mindstorms was discontinued in 2022, meaning that, although there are still a lot of systems still running, this system can be ported to newer Spike PRIME kits, if anyone is interested in joining.  
 There is also a possibility of using Raspberry Pi HATS that utilizes the newer LPF2 ports, doing away with the technic hubs.  

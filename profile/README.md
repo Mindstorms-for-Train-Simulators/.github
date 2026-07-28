@@ -44,6 +44,10 @@ This project requires:
 > ℹ️ World of Subways 3 and OpenBVE trains do not require drivers.
 * CobraOne released two programs for [Train Simulator Classic](https://forums.dovetailgames.com/threads/ts-classic-raildriver-and-joystick-interface.72488/) and [Train Simulator World](https://forums.dovetailgames.com/threads/ts-world-raildriver-and-joystick-interface.61440/). Install the one(s) that you need. The setup procedure will be the same for both versions.
    <!--* If that doesn't work, you will have to set the levers manually with the python script. Open up the ``configs`` folder in the VirtualHID project and the executable for the programs you just downloaded (you can go split-screen). At the top of the program, go to ``Settings`` and then ``Assign Levers``. Work your way down from ``Reverser`` down to ``LocoBrake``. For each one, right click and press ``Assign Controller Axis``. Immediately press the appropiate ``.py`` file from the ``configs`` folder. Press ``OK`` and save when you are finished.-->
+*   When setting up either CobraOne levers, use the CobraOne config program towards the bottom of the list that comes inside the brick. **Only run main.py!**
+* * Jiggle the levers in order to configure the "assigned to" columns. The leftmost lever is X, middle Y, and rightmost Z. After pressing the touch sensor, the leftmost lever becomes RX, middle RY, rightmost RZ.
+  * Reverser in both CobraOne applications must be set to X, ThrottleAndBrake Y, Throttle Z, DynamicBrake RX, TrainBrake RY, LocoBrake RZ. All other inputs can be left blank.
+* The Lever config program can be used to set minimum and maximum values for your motors.
   
 ## To Do: 🗺️
 Rolling Stock Configurations are found [here](https://docs.google.com/spreadsheets/d/1hxNL5QQfzBU_gq6_GBDmiY7Ld5c0j7snOmbEc2Otv3o/edit?ouid=100829421079514238916&usp=sheets_home&ths=true)! Future rolling stock will also be supplied on the spreadsheet as well.

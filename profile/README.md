@@ -37,14 +37,13 @@ This project requires:
 * Install the latest Python program from the Microsoft Store. As of time of writing, it is [v3.13](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=US&ocid=pdpshare).
 * Open up Windows Command Prompt. Install the [keyboard](https://pypi.org/project/keyboard/) and [pyvjoy modules](https://pypi.org/project/pyvjoy/) with ``pip install keyboard pyvjoy``. If this doesn't work, try running Windows Command Prompt as an administrator. -->
 * Install [vJoystick](https://sourceforge.net/projects/vjoystick/).
-* The VirtualHID executable has been move into a dedicated zip file found at the next step.
+* Download the [VirtualHID](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID/blob/main/dist/main.exe) program. It may give you a warning pop-up, but ignore it run the program anyways. It also prompt for connection permissions (this is necessary in order to listen to the EV3 brick), and it will launch a terminal to show you what the EV3 brick is sending, if at all. Feel free to ignore it!  
   <!--* Download the [VirtualHID](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID) repository.-->
 
 ### Setting up the Computer - CobraOne Driver ♥️:
 > ℹ️ World of Subways 3 and OpenBVE trains do not require drivers.
-* Extract the .zip file [here](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID/blob/main/Train%20Sim%20Controller.zip).
-* * The VirtualHID program may give you a warning pop-up, but ignore it run the program anyways. It also prompt for connection permissions (this is necessary in order to listen to the EV3 brick), and it will launch a terminal to show you what the EV3 brick is sending, if at all. Feel free to ignore it!
-  * Launch the appropiate executibles set up for TSClassic and TSW, depending on the game you're running.
+* CobraOne released two programs for [Train Simulator Classic](https://forums.dovetailgames.com/threads/ts-classic-raildriver-and-joystick-interface.72488/) and [Train Simulator World]([https://forums.dovetailgames.com/threads/ts-world-raildriver-and-joystick-interface.61440/](https://www.dropbox.com/scl/fi/udchlwdobdgxytprwpjxt/TSW-Raildriver-And-Joystick-Interface-V2.0.1.5.zip?rlkey=7z3fa01yyihaw17c0owixdba9&st=uveewpdi&dl=1)). Install the one(s) that you need. The setup procedure will be the same for both versions.
+* Download the ``.xml`` file [here](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID/blob/main/LeverSettings.xml). Then, open up the TSW or TSC interface and import it by pressing the yellow folder and selecting the ``.xml`` file. In the end, it should look like this: <img width="1295" height="660" alt="{2DCCB725-8759-4ECE-BCBE-4E1F6AAF01F7}" src="https://github.com/user-attachments/assets/40f33fc0-07c0-4745-a461-11561ea7c6ec" />
    <!--* If that doesn't work, you will have to set the levers manually with the python script. Open up the ``configs`` folder in the VirtualHID project and the executable for the programs you just downloaded (you can go split-screen). At the top of the program, go to ``Settings`` and then ``Assign Levers``. Work your way down from ``Reverser`` down to ``LocoBrake``. For each one, right click and press ``Assign Controller Axis``. Immediately press the appropiate ``.py`` file from the ``configs`` folder. Press ``OK`` and save when you are finished.-->
   
 ## To Do: 🗺️
